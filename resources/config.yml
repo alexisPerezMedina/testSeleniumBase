@@ -1,0 +1,4 @@
+#Select browser - Chrome, IE, Firefox
+browser: Firefox
+urls:
+  showHome: http://vw-pilot.erwin-portal.com/erwin/showHome.do
